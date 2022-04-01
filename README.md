@@ -1,7 +1,7 @@
 <img width="100%" src="https://github.com/emunib/emunib/blob/main/assets/cover.png" alt="cover" />
 
 ## About Me :
-I am Ehtasham Munib, I've recently finished studying computer science and full stack web developer. I am currently working as a web development teaching assistant at Brainstation. I like programming, design, and sports and I'm always tyring to learn new things.
+I am Ehtasham Munib, I've recently finished studying computer science and full stack web developer. I am currently working as a web development teaching assistant at Brainstation. I like programming, design, and sports and I'm always trying to learn new things.
 
 ## GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=emunib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
